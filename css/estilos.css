@@ -1,0 +1,378 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #009688;
+    
+   
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+
+}
+
+.custom-box{
+    max-width: 700px;
+    background-color: white;
+    margin: auto;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10%;
+
+}
+.dis{
+
+   text-align: center;
+   color: #009688;
+   font-size: 18px;
+   color: #009688;
+   font-weight: 600;
+
+}
+#barra1{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull1{
+    width: 10%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra2{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull2{
+    width: 20%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra3{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull3{
+    width: 30%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra4{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull4{
+    width: 40%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra5{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull5{
+    width: 50%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra6{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull6{
+    width: 60%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra7{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull7{
+    width: 70%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra8{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull8{
+    width: 80%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra9{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull9{
+    width: 90%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+#barra10{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#barrafull10{
+    width: 100%;
+    height: 100%;
+    background: rgb(11, 223,36);
+
+}
+
+
+
+h3{
+    font-size: 22px;
+    color: #000000;
+    font-weight: 500;
+    margin-bottom: 15px;
+    line-height: 25px;
+    padding: 10px 0;
+}
+li{
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 10px;
+    color: #000000;
+    font-weight: 400;
+}
+p{
+    font-size: 18px;
+    margin-bottom: 1opx;
+    padding-bottom: 10px;
+    line-height: 22px;
+    color: #009688;
+    font-weight: 600;
+}
+p span{
+    color: #009688;
+    font-weight: 600;
+   
+}
+.btn{
+    padding: 15px 45px;
+    background-color: #009688;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+
+}
+.h4{
+    font-size: 18px;
+    margin-bottom: 1opx;
+    padding-bottom: 10px;
+    line-height: 22px;
+    color: #009688;
+    font-weight: 600;
+}
+.nota{
+    font-size: 18px;
+    margin-bottom: 1opx;
+    padding-bottom: 10px;
+    line-height: 22px;
+    color: #009688;
+    font-weight: 600;
+}
+.b{
+    
+    padding: 15px 45px;
+    background-color: #009688;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+
+}
+.answers-indicator div{
+    height: 30px;
+    width: 40px;
+    display: inline-block;
+    background-color: #cccccc;
+    margin-right: 3px;
+    margin-top: 15px;
+    color: #009688;
+    cursor: pointer;
+
+}
+
+  
+.p1{
+    text-align: center;
+     font-size: 30px;
+}
+.p2{
+    text-align: center;
+    font-size: 30px;
+}
+.p3{
+    text-align: center;
+    font-size: 30px;
+}
+.p4{
+    text-align: center;
+    font-size: 30px;
+}
+.p5{
+    text-align: center;
+    font-size: 30px;
+}
+.p6{
+    text-align: center;
+    font-size: 30px;
+}
+.p7{
+    text-align: center;
+    font-size: 30px;
+}
+.p8{
+    text-align: center;
+    font-size: 30px;
+}
+.p9{
+    text-align: center;
+    font-size: 30px; 
+}
+.p10{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.icon{
+    min-width: 50px;
+    text-align: center;
+    color: #999;
+}
+
+
+
+
+
+.contenedor{
+    width: 100%;
+    padding: 15px;
+}
+.formulario{
+    background: #fff;
+    margin-top: 150px;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    color: #1a2537;
+    font-size: 40px;
+}
+input[type="text"],
+input[type="password"]{
+    font-size: 20px;
+    width: 82%;
+    padding: 10px;
+    border: none;
+}
+
+.button{
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  #1a2537;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover{
+    background: cadetblue;
+}
+
+.link{
+    text-decoration: none;
+      color: #1a2537;
+    font-weight: 600;
+}
+.link:hover{
+     color: cadetblue;
+}
+@media(min-width:768px)
+{
+    .formulario{
+        margin: auto;
+        width: 500px;
+        margin-top: 150px;
+        border-radius: 2%;
+    }
+}
+
+
+li{
+    list-style: none;
+}
+
+
+.container{
+    width: 70%;
+    margin: 2px auto;
+    overflow: auto;
+}
+.pull.right{
+    float: right;
+
+    
+}
